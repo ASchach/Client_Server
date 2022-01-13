@@ -1,0 +1,12 @@
+
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+{
+java:S1488+"YImmediately return this expression instead of assigning it to the temporary variable "v".(ş¤êúÿÿÿÿ8Â–Ğ˜/
+n	java:S116"TRename this field "co2_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í†íÌşÿÿÿÿ
+;
+java:S2119"Save and re-use this "Random".(ô ©²8¬Â–Ğ˜/
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ãôƒ§8ÛÂ–Ğ˜/
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(±ÖÏúÿÿÿÿ8ëÂ–Ğ˜/

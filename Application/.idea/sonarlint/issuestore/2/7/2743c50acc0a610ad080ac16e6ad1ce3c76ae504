@@ -1,0 +1,23 @@
+
+P
+java:S1141)"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+0
+java:S1700"Rename field "server"(çìÃÔıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØĞÓµúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ¿ç‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©¯–Ş
+E
+java:S6212$"/Declare this local variable with "var" instead.(ëŠØµ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(Í—¬¤
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+U
+java:S1854G":Remove this useless assignment to local variable "server".(ÿµÔ¥şÿÿÿÿ
+S
+java:S1197D"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+J
+java:S6212G"/Declare this local variable with "var" instead.(ÿµÔ¥şÿÿÿÿ
+F
+java:S1481G"+Remove this unused "server" local variable.(ÿµÔ¥şÿÿÿÿ
